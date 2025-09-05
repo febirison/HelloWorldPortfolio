@@ -11,8 +11,8 @@ This software is a Python console app that prints a personalized greeting celebr
 
 # Development Environment
 
-- Tools: Visual Studio Code, Git, Python 3.9+
-- Programming Language: Python
+- **Tools**: Visual Studio Code, Git, Python 3.9+
+- **Programming Language**: Python
 
 # Useful Websites
 
